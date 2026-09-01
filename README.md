@@ -1,6 +1,10 @@
 # FPGA-Based Smart Parking Lot
 
-本專案使用 FPGA 實作智慧停車場管理系統。
+Design and implement a smart parking lot management system using an FPGA board. The system includes the following features:
+1. Vehicle entry and exit control
+2. Parking time calculation and display
+3. Parking space occupancy status and remaining space display
+4. Parking space occupancy time inquiry
 
 ## 📝 檔案清單與功能說明
 
