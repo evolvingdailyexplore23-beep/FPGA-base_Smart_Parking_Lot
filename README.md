@@ -4,7 +4,7 @@
 
 ## 📝 檔案清單與功能說明
 
-| 檔案名稱 | 模組層級 | 功能描述 |
+| File Name | Module Level | Description |
 |---|---|---|
 | `main_top.v` | **Top Module** | System top-level file, responsible for integrating all sub-modules and interfacing with physical FPGA pins. |
 | `clk_div.v` | Sub Module | Clock divider, stepping down the high-frequency on-board clock to the required frequency. |
