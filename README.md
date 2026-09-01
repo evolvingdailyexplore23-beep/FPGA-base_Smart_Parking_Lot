@@ -31,3 +31,5 @@ main_top
  │    └── bcd_counter
  ├── led2_ctrl
  └── led_decoder
+
+[![Demo 影片](這裡放你在GitHub上傳的圖片網址)](https://www.youtube.com/shorts/xbU4MC_83k0)
