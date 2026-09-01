@@ -1,6 +1,6 @@
 # FPGA-Based Smart Parking Lot
 
-Design and implement a smart parking lot management system using an FPGA board. The system includes the following features:
+Design and implement a smart parking lot management system using a FPGA board. The system includes the following features:
 1. Vehicle entry and exit control
 2. Parking time calculation and display
 3. Parking space occupancy status and remaining space display
